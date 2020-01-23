@@ -1,0 +1,1 @@
+jmeter -f -n -t customtestplan.jmx -l results/customlog.jtl -e -o results
