@@ -1,1 +1,1 @@
-cp -avr ../. /tmp/SockShop
+cp -avr . /tmp/SockShop
