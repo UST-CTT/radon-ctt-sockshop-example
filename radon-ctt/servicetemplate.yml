@@ -6,7 +6,7 @@ node_types:
     interfaces:
       Standard:
         operations:
-          create: create.yml
+          create: 'radon-ctt/create.yml'
     requirements:
       - host:
           capability: tosca.capabilities.Compute
