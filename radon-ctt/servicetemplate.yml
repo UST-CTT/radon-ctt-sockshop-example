@@ -44,4 +44,4 @@ topology_template:
     custom_test:
       type: radon.policies.custom.ShellScript
       properties:
-        path: customscript.sh
+        path: 'radon-ctt/customscript.sh'
